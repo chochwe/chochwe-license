@@ -28,8 +28,8 @@ e6df70b6d4ca79cddce0558e1d08811f4e97d8ecf682ebf15235707ceb1b2d25
 # 다온
 3fab85f0bea6f0d8295c9cbba43f87f0f4a1ba843139c4a06e8ac2b84ade344d
 
-# 디코 아이디
-
+# 야삐
+8ae9be6b82ee36efc66708eb6f18fc8cd136499420dd72d8c3c2e790f1a9c221
 
 # 디코 아이디
 
