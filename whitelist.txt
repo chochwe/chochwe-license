@@ -34,8 +34,8 @@ e6df70b6d4ca79cddce0558e1d08811f4e97d8ecf682ebf15235707ceb1b2d25
 # 소연
 3ac5ba312218536ced1e1e2998dae5467df73e9ccabd1a01fed4736a0cb18587
 
-# 디코 아이디
-
+# 빈센트블루
+5eee501de9f2c4e81eea014a82487ec5b0906ad9af5e2e696af9caa59bde328f
 
 # 디코 아이디
 
